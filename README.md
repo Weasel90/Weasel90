@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Weasel90
-- 👀 I’m interested in Blockchain, Ethical Hacking and It-Security
+- 👀 I’m interested in Full Stack Development, Docker and Blockchain
 - 🌱 I’m currently learning Java, Linux and a little bit of Javascript and Xml
 - 💞️ I’m looking to collaborate on interesting projects 
 - 📫 You can reach me via email: roberts-island@web.de
