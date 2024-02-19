@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Weasel90
-- 👀 I’m interested in Full Stack Development, Back End Development and Containerization
+- 👀 I’m interested in Full Stack Development, Back End Development 
 - 🌱 I’m programming in Python, Java, Javascript and React
 - 💞️ I’m looking to collaborate on interesting projects 
 - 📫 You can reach me via email: roberts-island@web.de
