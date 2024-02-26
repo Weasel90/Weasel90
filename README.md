@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Weasel90
+- 👋 Hi, I’m Robert 
 - 👀 I’m interested in Full Stack Development, Back End Development 
 - 🌱 I’m programming in Python, Java, Javascript and React
 - 💞️ I’m looking to collaborate on interesting projects 
